@@ -1,8 +1,6 @@
 # StableSAM
 ## Image Inpainting with Gradio and Stable Diffusion
 
-# StableSAM
-
 StableSAM is an advanced image inpainting tool that combines the power of the Stable Diffusion model with Meta Research FAIR's Segment Anything Model (SAM). This project allows users to perform intuitive and creative image editing based on natural language prompts, providing an innovative solution for image inpainting tasks.
 
 ## Table of Contents
