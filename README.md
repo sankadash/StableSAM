@@ -1,5 +1,5 @@
 # StableSAM
-# Image Inpainting with Gradio and Stable Diffusion
+## Image Inpainting with Gradio and Stable Diffusion
 
 # StableSAM
 
